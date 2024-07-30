@@ -1,0 +1,16 @@
+{
+  "name": "diam-dex",
+  "version": "1.0.0",
+  "main": "main.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "diamante-base": "^1.0.0",
+    "diamante-sdk-js": "^1.0.3"
+  }
+}
